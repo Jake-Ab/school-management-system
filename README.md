@@ -70,6 +70,5 @@ Troubleshooting
 - If the backend reports database connection errors, ensure MySQL is running and your `backend/.env` credentials are correct.
 - To reset the schema: drop the `school_management` database from your MySQL server and restart the backend — the server recreates the schema.
 
-Want me to commit and push these README changes for you?
 
 
